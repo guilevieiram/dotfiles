@@ -7,4 +7,5 @@ vim.opt.softtabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.smartindent=true
 vim.opt.wrap = true
-vim.colorscheme = 'dark-meadow'
+vim.opt.expandtab = true
+

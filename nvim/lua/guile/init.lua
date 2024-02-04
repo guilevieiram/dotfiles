@@ -1,4 +1,4 @@
 require("guile.remap")
+require("guile.packer")
 require("guile.set")
---require('onedark').load()
-vim.cmd [[colorscheme dracula]]
+require("guile.theme")
