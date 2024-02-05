@@ -15,3 +15,8 @@ export PATH="/home/guile/.ghbup/bin:$PATH"
 
 alias nv=nvim
 alias tx=tmux
+
+## control
+# xset s off
+# setxkbmap us
+# xrandr --output eDP-1 --off
